@@ -5,4 +5,4 @@
 #
 ### Code Readability
 Code is properly formated and there is no blank lines or unused methods or variables.
-Methods,variables and IDs respects the naming conventions such another developer read the code can understand all the functionalities of the app.
+Methods,variables and IDs respects the naming conventions such that another developer read the code can understand all the functionalities of the app.
